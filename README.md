@@ -1,7 +1,7 @@
 # TypeScript bug: printer introduces syntax error in .tsx files
 
 This repository is a reproduction for a
-[TypeScript bug](https://github.com/microsoft/TypeScript/issues/59150)
+[TypeScript bug](https://github.com/microsoft/TypeScript/issues/59587)
 
 ## Reproduction
 
